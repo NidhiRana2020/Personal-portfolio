@@ -3,7 +3,7 @@
 A modern, responsive portfolio website showcasing expertise in Artificial Intelligence, Machine Learning, and High-Performance Computing.
 
 ## 🚀 Live Demo
-[View Portfolio](https://regal-taiyaki-5bb9d3.netlify.app/)
+[View Portfolio](https://app.netlify.com/projects/regal-taiyaki-5bb9d3/overview)
 
 ## 📋 About
 This portfolio showcases my journey as an AI/ML Engineer and HPC specialist, featuring:
